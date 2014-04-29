@@ -1,0 +1,1 @@
+%{"message_pack": {:git, "git://github.com/mururu/msgpack-elixir.git", "fb4ec578fe8d6b9d20baacf916c86b638f60b4a5", []}}
